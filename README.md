@@ -1,1 +1,1 @@
-# A school website made from FLOIX Template
+# A school website made with FLOIX Template
